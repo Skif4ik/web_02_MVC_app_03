@@ -1,3 +1,6 @@
+by\itclass\controller\ConditionsController.class
+by\itclass\model\services\UserService.class
+by\itclass\model\entities\User.class
+by\itclass\controller\JspUserController.class
 by\itclass\controller\SearchController.class
 by\itclass\model\db\DbInMemory.class
-by\itclass\model\entities\User.class
